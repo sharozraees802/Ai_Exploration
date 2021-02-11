@@ -6,3 +6,8 @@ git commit -m "[commit specifi file realte red]"
 git push
 
 
+git branser master
+
+
+
+git stage
